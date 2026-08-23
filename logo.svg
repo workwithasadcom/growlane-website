@@ -1,0 +1,22 @@
+<svg width="360" height="90" viewBox="0 0 360 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B4883A"/>
+      <stop offset="55%" stop-color="#D4AF6A"/>
+      <stop offset="100%" stop-color="#F0D998"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Mark: ascending lane dashes forming an implied arrow -->
+  <g stroke="url(#goldGrad)" stroke-linecap="round" fill="none">
+    <line x1="8"  y1="66" x2="20" y2="66" stroke-width="5"/>
+    <line x1="26" y1="52" x2="40" y2="52" stroke-width="5"/>
+    <line x1="46" y1="36" x2="62" y2="36" stroke-width="5"/>
+    <line x1="68" y1="20" x2="86" y2="20" stroke-width="5"/>
+  </g>
+  <path d="M84 14 L94 20 L84 26" fill="none" stroke="url(#goldGrad)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Wordmark -->
+  <text x="112" y="57" font-family="Fraunces, Georgia, serif" font-size="38" font-weight="600" fill="#EDEAE3" letter-spacing="0.5">Grow<tspan fill="url(#goldGrad)">lane</tspan></text>
+  <line x1="113" y1="68" x2="352" y2="68" stroke="#3A3A38" stroke-width="1"/>
+</svg>
