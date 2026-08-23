@@ -1,0 +1,41 @@
+GROWLANE — NAYI WEBSITE — GITHUB PE KAISE DALEIN
+==================================================
+
+Aap ka website URL wohi rahega:
+https://workwithasadcom.github.io/growlane-website/
+
+Bas GitHub repo ke andar files replace karni hain. Steps:
+
+1. GitHub.com pe login karein aur apna repo kholein:
+   "growlane-website"
+
+2. Us repo ke andar jitni bhi purani files hain (index.html, style.css, waghera)
+   sab ko DELETE kar dein.
+
+3. Is folder ("growlane") ke andar jo files hain — sab ko us repo mein
+   UPLOAD kar dein (drag & drop se, ya "Add file > Upload files" button se).
+
+   Is folder mein ye files hain:
+   - index.html          (Home page)
+   - about.html           (About Us page)
+   - services.html        (Services page)
+   - portfolio.html       (Portfolio page)
+   - faq.html             (FAQ page)
+   - blog.html             (Blog listing page)
+   - blog-content-calendar.html
+   - blog-reels-hook.html
+   - blog-website-conversion.html
+   - contact.html         (Contact page)
+   - assets/ folder        (isme style.css, logo.svg, icon.svg, main.js hain — is
+                            poori folder ko bhi as-it-is upload karna hai)
+
+4. "Commit changes" par click kar dein.
+
+5. 1-2 minute wait karein, phir apni site ka URL kholein — nayi site live ho
+   jayegi, URL wohi rahega.
+
+IMPORTANT: "assets" folder ka naam aur andar ki files ke naam bilkul waise hi
+rakhein jaise hain — page ke andar unhi naamon se link diya gaya hai.
+
+Agar GitHub upload mein koi masla aaye to mujhe screenshot bhej dena, main
+madad kar doonga.
